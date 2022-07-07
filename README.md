@@ -5,4 +5,11 @@ The object of this task was to analyze the PyBer weekly fares for each city type
 
 ## Results
 ![PyBer_Fare_Summary_Table](https://user-images.githubusercontent.com/106352711/177883743-0bb30c55-6cb0-4971-b5c5-3a7294ec8383.png)
-From the analysis 
+
+The analysis show several factors:
+* Rural cities have fewer rides and drivers, but higher fares and fares per driver compared to urban and suburban cities.
+* The average fare per driver in urban cities was $0.67 and the average fare was $24.53.
+* The average fare per driver in suburban cities was $2.26 and the average fare was $30.97.
+* The average fare per driver in rural cities was $8.06 and the average fare was $34.62
+
+
