@@ -26,4 +26,4 @@ Based on the results of the PyBer weekly fares by city type, I would reccommend 
 * Based on the low fares per driver numbers, it is evident there are many drivers enrolled who are not actually supplying rides.  Cleaning the data to remove drivers form the city driver counts who are not actually collecting fares/not driving would help bring better understanding to the data.
 * Assuming enrolling drivers and maintaining their contracts impacts PyBer negatively in the form of administative costs, I would recommend to either reomving drivers without any fares from the circulation or implement an incentive to get them accepting rides.
 * Rural rides are not as frequent but routinely bring higher fares.  Increasing rural ridership would bring PyBer more income per ride.
-* 
+* Based on the high volume of rides in urban cities, by raising fares just a small amount PyBer could see the biggest impact to profit.
